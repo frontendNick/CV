@@ -7,9 +7,9 @@
 
 ##  Проекты на ванильном* javascript:
 
-  1.  https://github.com/frontendNick/drumSample_vanillaJS -> небольшой драм-семплер. 
+  1.  https://github.com/frontendNick/drumSample_vanillaJS -> небольшой драм-семплер. \n
   Адрес -> https://frontendnick.github.io/drumSample_vanillaJS/ ;
-  2.  https://github.com/frontendNick/toDoList_with_localStorage -> todo-лист с применением LocalStorage. 
+  2.  https://github.com/frontendNick/toDoList_with_localStorage -> todo-лист с применением LocalStorage. \n
   Адрес -> https://frontendnick.github.io/toDoList_with_localStorage ;
-  3.  https://github.com/frontendNick/clock -> часы на чистом Js + css. 
+  3.  https://github.com/frontendNick/clock -> часы на чистом Js + css. \n
   Адрес -> https://frontendnick.github.io/clock/ ;
