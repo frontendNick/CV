@@ -7,11 +7,70 @@
 
 ##  Проекты на ванильном* javascript:
 
-  1.  https://github.com/frontendNick/drumSample_vanillaJS -> небольшой драм-семплер.
+  1.  https://github.com/frontendNick/drumSample_vanillaJS -> небольшой драм-семплер ;
+  2.  Адрес в интенете: https://frontendnick.github.io/drumSample_vanillaJS/ ;
+  3.  https://github.com/frontendNick/toDoList_with_localStorage -> todo-лист с применением LocalStorage ;
+  4.  Адрес в интернете: https://frontendnick.github.io/toDoList_with_localStorage ;
+  5.  https://github.com/frontendNick/clock -> часы на чистом Js + css ;
+  6.  Адрес в интернете: https://frontendnick.github.io/clock/ ;
+  7.  Небольшая галерея с технологией flexbox -> https://github.com/frontendNick/mini-flex-gallery ;
+  8.  Адрес в интернете: https://frontendnick.github.io/mini-flex-gallery/ ;
+  9.  Небольшая форма, в которой можно посмотреть население города в США, предварительно вбив последний в форму -> https://github.com/frontendNick/USA-population ;
+  10. Адрес в интернете: https://frontendnick.github.io/USA-population/ ;
+  11. Реализована анимация при скроллинге вверх-вниз -> https://github.com/frontendNick/scroll-img-animation ;
+  12. Адрес в интернете: https://frontendnick.github.io/scroll-img-animation/ ;
+  13. Реализована небольшая игра на чистом javascript + css -> https://github.com/frontendNick/simple-timer ;
+  14. Адрес в интернете: https://frontendnick.github.io/a-little-game/ ж
+  15. Простой таймер с возможностью добавления своего количества минут -> https://github.com/frontendNick/simple-timer ;
+  16. Адрес в интернете: https://frontendnick.github.io/simple-timer/ .
+
+##  Hard-навыки
+
+  - html/css
+  - javascript ( es6+, fetch, ajax, promises, async/await & etc );
+  - css-frameworks ( materialize, bootstrap & etc );
+  - css preprocessor ( SASS );
+  - git flow;
+  - adaptive markup;
+  - devtools basics;
+  - reactJS ( hooks, redux, routing, hoc & etc );
+  - expressJS basics;
+  - nodeJS;
+  - npm.
+
+## Soft-навыки
+
+  Я считаю, что я:
+  - коммуникабельный, способный к диалогу, открытый человек;
+  - способен к самоорганизации, проставлению и соблюдению дедлайнов;
+  - английский язык на официальном A2, но мне хватает для чтения профессиональной литературы;
+  - сам могу найти нужную информацию в интернете;
+  - умею и люблю задавать вопросы, чтобы профессионально развиваться, если не помог гугл.
   
-    1.  Адрес : https://frontendnick.github.io/drumSample_vanillaJS/
-    
-  2.  https://github.com/frontendNick/toDoList_with_localStorage -> todo-лист с применением LocalStorage.
-    2.1.  Адрес -> https://frontendnick.github.io/toDoList_with_localStorage ;
-  3.  https://github.com/frontendNick/clock -> часы на чистом Js + css.
-    3.1.  Адрес -> https://frontendnick.github.io/clock/ ;
+##  Пройденные курсы
+
+  - hexlet.io : фронтенд-программист ;
+  - Владилен Минин, курсы : react-разработчик, основы javascript, react hooks, js es6+.
+
+##  Настольные книги:
+
+  - Выразительный javascript;
+  - YDKJS - особенно про асинхронность;
+  - Грокаем алгоритмы;
+  - Функциональный react + redux.
+
+## Ещё раз о себе:
+
+  Я решил развиваться в сфере frontend-программирования потому что считаю, что в будущем сервисы в большинстве своем будут размещаться в интернете.
+  
+  Так, например, я наблюдаю за развитием языка javascript через разные источники информации: наблюдая за интересующими меня блогами авторов или компаний, читая книги или изучая язык через различные платформы. Так, например, Майкл Миковски и Джош Пауэл предсказывали появление SPA ещё в конце нулевых годов. Точнее, считали это закономерным развитием клиента в браузере.
+  
+  В свою очередь, помимо обучения на hexlet, я много времени уделяю курсам Владилена Минина с Udemy. Теперь у него есть своя образовательная платформа.
+  
+  У меня нет pet-проектов, потому что все своё свободное время уделял именно обучению. Изучению чего-то нового. Что такое промисы, например. Да, а зачем тогда async/await? А, для синхронной асинхронности. Ушёл от циклов, перешёл на функции высшего порядка ( map, filter, reduce - три кита для меня). В процессе обучения, авторы часто писали о том, что hexlet дает гораздо больше знаний, чем нужно для обустройства на работу junior. Теперь постоянно жду испытаний на собеседовании, чтобы проверить себя.
+  
+  Мое ключевое достижение - прошел курс на hexlet на 95+ баллов.
+  
+  Хочу зацепиться стажером или джуниором в Москве.
+  
+  Чтобы расслабиться - играю в видеоигры, занимаюсь футболом, пишу музыку и записываю песни.
